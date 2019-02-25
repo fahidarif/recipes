@@ -6,13 +6,8 @@ Ingredients:
  - 1 1/2 teaspoons baking soda
  - 1 teaspoon salt
  - 2 eggs
-<<<<<<< HEAD
- - 1 cup milk oile
+ - 1 cup milk oileeeee
  - 1/2  vegetable
-=======
- - 1 cup milk
- - 1/2  vegetable oile
->>>>>>> 1a403794a9e30223ca394ce4507ccc5c9188f44c
 
 
 Directions:
